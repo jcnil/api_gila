@@ -58,7 +58,7 @@ cover/
 # Django stuff:
 *.log
 *.pdf
-requerimientos.txt
+requerimiento.txt
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
